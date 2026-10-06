@@ -625,7 +625,7 @@ p {
     position: absolute;
     inset: 0;
 
-    background-image:
+    background-Image:
         url("Images/hero-plumber.jpg");
 
     background-size: cover;
@@ -1273,7 +1273,7 @@ p {
 }
 
 
-.service-image {
+.service-Image {
     position: absolute;
     inset: 0;
 
@@ -1286,33 +1286,33 @@ p {
 }
 
 
-.service-image-leaks {
-    background-image: url("Images/leak-repair.jpg");
+.service-Image-leaks {
+    background-Image: url("Images/leak-repair.jpg");
 }
 
 
-.service-image-drains {
-    background-image: url("Images/drain-cleaning.jpg");
+.service-Image-drains {
+    background-Image: url("Images/drain-cleaning.jpg");
 }
 
 
-.service-image-geyser {
-    background-image: url("Images/geyser.jpg");
+.service-Image-geyser {
+    background-Image: url("Images/geyser.jpg");
 }
 
 
-.service-image-bathroom {
-    background-image: url("Images/bathroom-plumbing.jpg");
+.service-Image-bathroom {
+    background-Image: url("Images/bathroom-plumbing.jpg");
 }
 
 
-.service-image-taps {
-    background-image: url("Images/tap-repair.jpg");
+.service-Image-taps {
+    background-Image: url("Images/tap-repair.jpg");
 }
 
 
-.service-image-tanks {
-    background-image: url("Images/water-tank.jpg");
+.service-Image-tanks {
+    background-Image: url("Images/water-tank.jpg");
 }
 
 
@@ -1423,7 +1423,7 @@ p {
 }
 
 
-.service-card:hover .service-image {
+.service-card:hover .service-Image {
     transform: scale(1.09);
 }
 
@@ -1481,7 +1481,7 @@ p {
 
     opacity: 0.15;
 
-    background-image:
+    background-Image:
         linear-gradient(
             135deg,
             transparent 25%,
@@ -1567,23 +1567,23 @@ p {
 }
 
 
-.why-image-wrap {
+.why-Image-wrap {
     position: relative;
 }
 
 
-.why-image {
+.why-Image {
     min-height: 620px;
 
     border-radius: 25px;
 
-    background-image:
+    background-Image:
         linear-gradient(
             180deg,
             rgba(4, 14, 26, 0.05),
             rgba(4, 14, 26, 0.3)
         ),
-        url("Images/");
+        url("Images/plumber-working.jpg");
 
     background-size: cover;
     background-position: center;
@@ -1928,7 +1928,7 @@ p {
 
     opacity: 0.4;
 
-    background-image:
+    background-Image:
         linear-gradient(
             25deg,
             transparent 47%,
@@ -3030,7 +3030,7 @@ p {
     }
 
 
-    .why-image {
+    .why-Image {
         min-height: 480px;
     }
 
